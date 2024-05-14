@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+max-width: 1440px;
+margin: auto;
+}
+
+.all-the-power{
+    font-size: 40px;
+    font-weight: 600;
+    margin: auto;
+    margin-left: 474px;
+    margin-top: 100px;
+    margin-block-end: 28px;
+}
+
+.img{
+    margin-left: 222px;
+    max-width: 996px;
+    margin-block-end: 70.25px;
+}
+
+.button{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    max-width: 400px;
+    margin-left: 521px;
+    margin-block-end: 150px;
+}
+
+.btn1{
+width: 189px;
+height: 40px;
+margin: auto;
+background-color: blue;
+color: #F5F5F5;
+padding-block: 12.5px;
+padding-inline-start:45px;
+border-radius: 50px 50px 50px 50px;
+transition: 0.5s;
+}
+
+.btn1:hover{
+    background-color: #F5F5F5;
+    color: blue;
+}
+
+.brands{
+    margin-left: 195px;
+    display: flex;
+    width: 1050px;
+    justify-content: space-between;
+    margin-block-end: 75px;
+}
+
+.btn2{
+ width: 189px;
+height: 40px;
+margin: auto;
+background-color: #F5F5F5;
+color: blue;
+padding-block: 12.5px;
+padding-inline-start:45px;
+border-radius: 50px 50px 50px 50px;
+transition: 0.5s;
+
+}
+
+.btn2:hover{
+    background-color: blue;
+    color: #F5F5F5;
+}
+
+.clinique{
+    width: 319.83px;
+    height: 438px;
+    background-color: #F5F5F5;
+}
+
+.river-island{
+    width: 319.83px;
+    height: 438px;
+    background-color: #F5F5F5;  
+}
+
+.mm{
+    width: 319.83px;
+    height: 438px;
+    background-color: #F5F5F5;  
+}
+
+.xizmatlar{
+    width: 1440px;
+    height: 950px;
+    background-color: #F5F5F5;
+}
+
+.fff{
+    margin-left: 195px;
+}
+
+.beauty-cosmetic{
+    width: 492.86px;
+    height: 199px;
+    background-color: #17002E;
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+}
+
